@@ -4,8 +4,12 @@
 I am Sadid from Bangladesh and I am a Software Engineer and coding instructor by profession.
 
 ## Github Stats
-![Sadman's stat](https://github-readme-stats.vercel.app/api?username=Sadman007&show_icons=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sadman007)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirvik-alpha&show_icons=true&locale=en&layout=compact" alt="nirvik-alpha" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirvik-alpha&show_icons=true&locale=en" alt="nirvik-alpha" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirvik-alpha&" alt="nirvik-alpha" /></p>
 
 ## Skills
 * Java Springboot, C/C++.
@@ -31,8 +35,3 @@ I am Sadid from Bangladesh and I am a Software Engineer and coding instructor by
 * Competitive Programming Coach (University of Liberal Arts Bangladesh - Feb 2019 to Feb 2020)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirvik-alpha&show_icons=true&locale=en&layout=compact" alt="nirvik-alpha" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nirvik-alpha&show_icons=true&locale=en" alt="nirvik-alpha" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirvik-alpha&" alt="nirvik-alpha" /></p>
