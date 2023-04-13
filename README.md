@@ -1,7 +1,7 @@
 
 
-## Md Sadid Rafan - Software Engineer
-I am Sadid from Bangladesh and I am a Software Engineer and coding instructor by profession.
+## Sadid Rafan - Software Engineer
+I am Sadid Rafan from Bangladesh and I am a Competitive Programmer and want to be a Software Engineer.
 
 ## Github Stats
 
@@ -12,26 +12,18 @@ I am Sadid from Bangladesh and I am a Software Engineer and coding instructor by
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nirvik-alpha&" alt="nirvik-alpha" /></p>
 
 ## Skills
-* Java Springboot, C/C++.
-* In-memory storage (Redis), SQL(Postgres), NoSQL(MongoDB).
+* Languages - Java , Java Swing , C/C++ , python(basic) , PHP(basic) , C#(basic) , SQL,  .
+* Tools - VSCode, Visual Studio , Netbeans , Codeblocks , Android Studio .
 * Data Structures & Algorithms, Competitive Programming.
-* Micro-service architecture and distributed system.
-  
+* Problem Solving
+
 ## Currently doing
 - 🔭 Learning Go, Apache Kafka, NiFi, Airflow, and playing with docker containers.
-- 🌱 Learning scalable system design and linux kernel. 
-- 👨‍🏫 Teaching 100+ students about coding and problem solving.
+- 🌱 Learning Javascript , React Js , Node.Js , 
+- 👨‍🏫 Teaching people coding and problem solving on Youtube.
 
 
-## Work Experience
-* Software Engineer (Google)
-* Software Engineer (Penta Global Ltd - Almost 1 year)
-* Software Engineer (Samsung R&D - 2 years)
-
-## Leadership Skills
-* Founder - TJIP - A platform for preparing candidates for technical job interviews.
-* Co-founder (Shoshikkha.com - an online learning platform in Bengali)
-* Course Instructor at ![Devskill - online technical learning platform](https://training.devskill.com)
-* Competitive Programming Coach (University of Liberal Arts Bangladesh - Feb 2019 to Feb 2020)
+## Competitve Peogramming & Problem Solving 
+![Leetcode Stats](https://leetcard.jacoblin.cool/RafanX?theme=forest)
 
 
