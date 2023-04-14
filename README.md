@@ -7,7 +7,7 @@ I am Sadid Rafan from Bangladesh and I am a Competitive Programmer and want to b
 
 <img alt="Berkeli's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=nirvik-alpha&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nirvik-alpha&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nirvik-alpha&theme=algolia" alt="candida18"  /></p>
+<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nirvik-alpha&theme=algolia" alt="candida18"  /></p>
 
 ## Skills
 * Languages - Java , Java Swing , C/C++ , python(basic) , PHP(basic) , C#(basic) , SQL   .
@@ -25,7 +25,7 @@ I am Sadid Rafan from Bangladesh and I am a Competitive Programmer and want to b
 ## Competitive Programming & Problem Solving 
 <div>
   
-  <img alt="Berkeli's github Stats" src="https://leetcard.jacoblin.cool/RafanX?theme=forest" height="192px" width="400px"/>
+  <img alt="Berkeli's github Stats" src="https://leetcard.jacoblin.cool/RafanX?theme=forest" height="220px" width="400px"/>
   
   
   <img alt="Berkeli's top Languages" src="https://raw.githubusercontent.com/nirvik-alpha/cf-stats/main/output/light_card.svg#gh-dark-mode-only" height="192px" width="400px"/>
