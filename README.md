@@ -1,6 +1,6 @@
 
 
-## Sadid Rafan - Software Engineer
+## Sadid Rafan - Competitive Programmer || Problem Solver  
 I am Sadid Rafan from Bangladesh and I am a Competitive Programmer and want to be a Software Engineer.
 
 ## Github Stats
