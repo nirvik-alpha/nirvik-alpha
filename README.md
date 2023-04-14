@@ -23,8 +23,8 @@ I am Sadid Rafan from Bangladesh and I am a Competitive Programmer and want to b
 
 
 ## Competitive Programming & Problem Solving 
-<img height="273em" src="https://leetcard.jacoblin.cool/RafanX?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
+<img height="200em" src="https://leetcard.jacoblin.cool/RafanX?theme=light&font=Karma&ext=contest" />
+<img height="200em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
 </p>
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/RafanX?theme=forest)
