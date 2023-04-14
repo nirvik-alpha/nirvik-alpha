@@ -25,9 +25,9 @@ I am Sadid Rafan from Bangladesh and I am a Competitive Programmer and want to b
 ## Competitive Programming & Problem Solving 
 <div>
   
-  <img alt="Berkeli's github Stats" src="https://leetcard.jacoblin.cool/RafanX?theme=forest" height="192px"/>
+  <img alt="Berkeli's github Stats" src="https://leetcard.jacoblin.cool/RafanX?theme=forest" height="192px" width="400px"/>
   
-  <img alt="Berkeli's top Languages" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" height="192px" width="320px"/>
+  <img alt="Berkeli's top Languages" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" height="192px" width="400px"/>
  
 </div>
 
