@@ -18,7 +18,7 @@ I am Sadid Rafan from Bangladesh and I am a Competitive Programmer and want to b
 ## Currently doing
 * Learning DSA for coding interview round .
 * Learning OOP, Operating System(OS), DBMS, Computer Network(CN) for technical interview preparation .
-* Learning Javascript , React Js , Node.Js for Development .
+* Learning ASP.NET MVC for Development .
 * Teaching people coding and problem solving on Youtube.
 
 
