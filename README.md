@@ -1,8 +1,8 @@
 
 
 ## Sadid Rafan - Competitive Programmer || Problem Solver  
-I am Sadid Rafan from Bangladesh and I am a Competitive Programmer and want to be a Software Engineer.
-<p align="center"><img src="https://komarev.com/ghpvc/?username=nirvik-alpha&label=Profile%20views&color=red&style=flat-square"> </p>
+I am Sadid Rafan from Bangladesh and I am a Competitive Programmer and want to be a Software Engineer. 
+
 ## Github Stats
 
 
