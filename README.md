@@ -20,19 +20,6 @@ I am Sadid Rafan from Bangladesh and I am a Competitive Programmer and want to b
 ## Currently doing
 * Learning DSA for coding interview round .
 * Learning OOP, Operating System(OS), DBMS, Computer Network(CN) for technical interview preparation .
-* Learning ASP.NET MVC for Development .
-* Teaching people coding and problem solving on Youtube.
-
-
-## Competitive Programming & Problem Solving 
-<div>
-  
-  <img alt="Berkeli's github Stats" src="https://leetcard.jacoblin.cool/RafanX?theme=forest" height="200px" width="400px"/>
-  
-  
-  <img alt="Berkeli's top Languages" src="https://raw.githubusercontent.com/nirvik-alpha/cf-stats/main/output/light_card.svg#gh-dark-mode-only" height="192px" width="400px"/>
- 
-</div>
 
 
 
